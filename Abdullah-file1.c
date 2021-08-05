@@ -1,0 +1,5 @@
+char* abdullah(){
+
+    return "abdullah";
+
+}
