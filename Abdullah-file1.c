@@ -1,5 +1,5 @@
 char* abdullah(){
-
-    return "abdullah";
+     int a=10;
+    return "md-abdullah";
 
 }
